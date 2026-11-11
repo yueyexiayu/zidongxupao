@@ -19,7 +19,7 @@ function mount(context, config) {
 
 test('host metadata and bundled client are declared', () => {
   assert.equal(name, 'zidongxupao')
-  assert.equal(VERSION, '0.2.0')
+  assert.equal(VERSION, '0.2.1')
   assert.deepEqual(inject, ['loader', 'connection'])
 })
 

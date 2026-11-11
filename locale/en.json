@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Auto Resume",
+    "description": "Bounded, observable automatic recovery for retryable whole-turn failures."
+  }
+}
